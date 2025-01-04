@@ -1,0 +1,2 @@
+# javascript-methods
+coding practice
